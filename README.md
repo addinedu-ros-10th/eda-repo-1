@@ -13,9 +13,10 @@
 ### 사용 기술
 |분류|기술|
 |------|---|
-|개발 환경|![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
-|언어|스트2|
-|데이터 수집|테스트2|
+|개발 환경|![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)|
+|언어|![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
+|데이터 수집|![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4E973E?style=for-the-badge&logo=python&logoColor=white)
+|
 |데이터 분석 및 시각화|테스트2|
 |형상 관리|테스트2|
 |협업 도구|테스트2|
