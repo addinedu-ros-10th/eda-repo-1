@@ -1,6 +1,3 @@
-# eda-repo-1
-EDA 프로젝트 1조 저장소. 행복하자 
-
 # 텅장 구원 커피 수혈단
 ☕️ 본 프로젝트는 전국 주요 체인점 카페에서 합리적인 가격으로 커피를 즐기고자 하는 소비자들을 대상으로 합니다.
 
@@ -11,8 +8,12 @@ EDA 프로젝트 1조 저장소. 행복하자
 분석된 데이터를 통해 소비자들이 가격 대비 효율적인 커피를 선택하고, 합리적인 소비를 할 수 있도록 실질적인 정보를 제공하는 것이 목표입니다.
 
 
-## 팀원 소개
+## Team
+|<img src="https://avatars.githubusercontent.com/u/218534890?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/81243837?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/218535035?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/218901419?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|정광민<br/>[@hwarite](https://github.com/hwarite)|손성경<br/>[@Sungkyung-Shon](https://github.com/Sungkyung-Shon)|최승혁<br/>[@ggudas](https://github.com/ggudas)|김연희<br/>[@kimyeonhee-1](https://github.com/kimyeonhee-1)|
 
+<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
 
 ### Prerequisites
 
