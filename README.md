@@ -17,7 +17,7 @@
 |언어|![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
 |데이터 수집|<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Beautifulsoup-FF0000?style=flat-square&logo=Adobe&logoColor=white">|
 |형상 관리|![github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
-|협업 도구|![Confluence](https://img.shields.io/badge/Confluence-documentation-0052CC?style=for-the-badge&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-communication-4A154B?style=for-the-badge&logo=slack&logoColor=white)|
+|협업 도구|<img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />|
 
 ### Prerequisites
 
