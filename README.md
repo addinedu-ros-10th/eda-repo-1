@@ -15,7 +15,7 @@
 |------|---|
 |개발 환경|![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
 |언어|![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
-|데이터 수집|<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Beautifulsoup-FF0000?style=flat-square&logo=Adobe&logoColor=white">|
+|데이터 수집|<img src="https://img.shields.io/badge/Selenium-4CAF50?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" /> <img src="https://img.shields.io/badge/BeautifulSoup-FFB300?style=flat-square&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" /> |
 |형상 관리|![github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
 |협업 도구|<img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />|
 
