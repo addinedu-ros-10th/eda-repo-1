@@ -9,11 +9,17 @@
 
 
 ## Team
-|<img src="https://avatars.githubusercontent.com/u/218534890?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/81243837?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/218535035?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/218901419?v=4" width="150" height="150"/>|
-|:-:|:-:|:-:|:-:|
-|정광민<br/>[@hwarite](https://github.com/hwarite)|손성경<br/>[@Sungkyung-Shon](https://github.com/Sungkyung-Shon)|최승혁<br/>[@ggudas](https://github.com/ggudas)|김연희<br/>[@kimyeonhee-1](https://github.com/kimyeonhee-1)|
+### 팀원: 정광민, 손성경, 최승혁, 김연희
+### 사용 기술
+|분류|기술|
+|------|---|
+|개발 환경|(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
+|언어|스트2|
+|데이터 수집|테스트2|
+|데이터 분석 및 시각화|테스트2|
+|형상 관리|테스트2|
+|협업 도구|테스트2|
 
-<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
 
 ### Prerequisites
 
