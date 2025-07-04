@@ -13,9 +13,9 @@
 ### 사용 기술
 |분류|기술|
 |------|---|
-|개발 환경|![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)|
+|개발 환경|![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
 |언어|![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
-|데이터 수집|!![Selenium](https://img.shields.io/badge/Selenium-using%20Selenium-4CAF50?style=for-the-badge&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-using%20BS-FFB300?style=for-the-badge&logo=beautifulsoup&logoColor=white) |
+|데이터 수집|!![Selenium](<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> |
 |형상 관리|![github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
 |협업 도구|![Confluence](https://img.shields.io/badge/Confluence-documentation-0052CC?style=for-the-badge&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-communication-4A154B?style=for-the-badge&logo=slack&logoColor=white)|
 
