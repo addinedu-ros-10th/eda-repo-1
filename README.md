@@ -13,7 +13,7 @@
 ### 사용 기술
 |분류|기술|
 |------|---|
-|개발 환경|[ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
+|개발 환경|[|
 |언어|스트2|
 |데이터 수집|테스트2|
 |데이터 분석 및 시각화|테스트2|
