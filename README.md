@@ -69,25 +69,28 @@ __2. 데이터프레임 기반 분석 및 지표 계산__
 ## 📊결과
 __1. 브랜드별 카페인과 칼로리 비교__
 
-![image](https://github.com/user-attachments/assets/e892ee23-dfd7-4aa8-ad2c-3b3f63c03033)
-![image](https://github.com/user-attachments/assets/6fc96d4f-b5fb-4e6f-9287-fa8252dddede)
-![image](https://github.com/user-attachments/assets/511aebc2-6d09-4058-86ca-58350f3f7dad)
+![브랜드별 아메리카노 카페인과 칼로리 비교](https://github.com/user-attachments/assets/ea149de3-466b-41b9-b552-67d34936e26b)
+![브랜드별 카페라떼 카페인과 칼로리 비교](https://github.com/user-attachments/assets/4a2162e8-3a09-4387-ad72-6370bd1e781d)
+![브랜드별 카페모카 카페인과 칼로리 비교](https://github.com/user-attachments/assets/895a8e0a-b2b1-43a2-a8d2-6b9d25a212b8)
 
 __2. 브랜드별 카페인과 가격 비교__
 
-![image](https://github.com/user-attachments/assets/d7bf07df-41ca-4130-b670-71ad9e6d31f3)
-![image](https://github.com/user-attachments/assets/e1ac6fb4-e082-4081-89ee-6412df1743c2)
-![image](https://github.com/user-attachments/assets/b8081327-4a16-4d85-9b8f-3faff67c2007)
+![image](https://github.com/user-attachments/assets/f073db61-afc8-4e7c-9881-2ad6e166e85e)
+![image](https://github.com/user-attachments/assets/35025c7a-613b-4a2d-b4b1-f91a35acc926)
+![image](https://github.com/user-attachments/assets/981bd928-3232-4a8c-b2be-3853e0b4299a)
 
 __3. 카페인 1mg당 가격 비교__
 
-![image](https://github.com/user-attachments/assets/e1a25c89-211a-4b58-9dba-186a06255169)
+![image](https://github.com/user-attachments/assets/7d547977-f18a-44f1-87e0-81f393d989b4)
 
 __4. 카페인 1mg당 가성비 비교__
 
-![image](https://github.com/user-attachments/assets/26016ba5-69e3-49c1-b8b0-343dd99eb68c)
-![image](https://github.com/user-attachments/assets/92d225c3-714d-4b21-991e-c4c06e197d99)
-![image](https://github.com/user-attachments/assets/606725ac-c7aa-4e84-b109-3771fcda3cd6)
+![image](https://github.com/user-attachments/assets/47efc6f2-571a-4f82-ac95-4abe727e4121)
+![image](https://github.com/user-attachments/assets/d0995adb-f089-47c0-b645-016a65173f14)
+![image](https://github.com/user-attachments/assets/6802b2e1-63a6-4856-a247-83d6deee3824)
+
+
+
 
 
 
