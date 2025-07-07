@@ -66,7 +66,23 @@ __2. 데이터프레임 기반 분석 및 지표 계산__
 * 가성비 지수:
     * 가격/1mg = 카페인 / 가격
 
-### Prerequisites
+## 📊결과
+__1. 브랜드별 카페인과 칼로리 비교__
+
+![image](https://github.com/user-attachments/assets/e892ee23-dfd7-4aa8-ad2c-3b3f63c03033)
+![image](https://github.com/user-attachments/assets/6fc96d4f-b5fb-4e6f-9287-fa8252dddede)
+![image](https://github.com/user-attachments/assets/511aebc2-6d09-4058-86ca-58350f3f7dad)
+
+__2. 브랜드별 카페인과 가격 비교__
+
+![image](https://github.com/user-attachments/assets/d7bf07df-41ca-4130-b670-71ad9e6d31f3)
+![image](https://github.com/user-attachments/assets/e1ac6fb4-e082-4081-89ee-6412df1743c2)
+![image](https://github.com/user-attachments/assets/b8081327-4a16-4d85-9b8f-3faff67c2007)
+
+__3. 카페인 1mg당 가격 비교__
+
+![image](https://github.com/user-attachments/assets/e1a25c89-211a-4b58-9dba-186a06255169)
+
 
 The things you need before installing the software.
 
@@ -94,7 +110,7 @@ $ Second example
 $ And keep this in mind
 ```
 
-## Deployment
+## 
 
 Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
 
