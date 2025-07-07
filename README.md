@@ -24,7 +24,7 @@
 |협업 도구|<img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />|
 |DB 관리| ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
-## 데이터 수집 및 처리
+## 📂 데이터 수집 및 처리
 |데이터 종류|출처|수집 방법|
 |---------|---|-------|
 |카페(아메리카노, 카페라떼, 카페모카)|브랜드별 홈페이지|Selenium, Beautifulsoup|
@@ -32,6 +32,7 @@
 |브랜드별 평판 순위| Brand Reputation Index | 
 |카페별 선호도 조사| 자체 제작 | Google form
 
+## 
 
 
 ### Prerequisites
