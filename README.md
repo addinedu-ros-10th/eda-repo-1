@@ -69,9 +69,9 @@ __2. 데이터프레임 기반 분석 및 지표 계산__
 ## 📊결과
 __1. 브랜드별 카페인과 칼로리 비교__
 
-![브랜드별 아메리카노 카페인과 칼로리 비교](https://github.com/user-attachments/assets/ea149de3-466b-41b9-b552-67d34936e26b)
-![브랜드별 카페라떼 카페인과 칼로리 비교](https://github.com/user-attachments/assets/4a2162e8-3a09-4387-ad72-6370bd1e781d)
-![브랜드별 카페모카 카페인과 칼로리 비교](https://github.com/user-attachments/assets/895a8e0a-b2b1-43a2-a8d2-6b9d25a212b8)
+![image](https://github.com/user-attachments/assets/1c809102-7f51-4911-95c1-d21b4defc170)
+![image](https://github.com/user-attachments/assets/c312dedf-178d-42b3-b636-5f44008fc257)
+![image](https://github.com/user-attachments/assets/bc100eb5-97f6-4acd-bfaa-29731578e358)
 
 __2. 브랜드별 카페인과 가격 비교__
 
