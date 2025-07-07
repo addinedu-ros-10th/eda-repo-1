@@ -68,25 +68,32 @@ __2. 데이터프레임 기반 분석 및 지표 계산__
 
 ## 📊결과
 __1. 브랜드별 카페인과 칼로리 비교__
-
+* 아메리카노 카페인과 칼로리
 ![image](https://github.com/user-attachments/assets/1c809102-7f51-4911-95c1-d21b4defc170)
+* 카페라떼 카페인과 칼로리
 ![image](https://github.com/user-attachments/assets/c312dedf-178d-42b3-b636-5f44008fc257)
+* 카페모카 카페인과 칼로리
 ![image](https://github.com/user-attachments/assets/bc100eb5-97f6-4acd-bfaa-29731578e358)
-
+---
 __2. 브랜드별 카페인과 가격 비교__
-
+* 아메리카노 카페인과 가격
 ![image](https://github.com/user-attachments/assets/f073db61-afc8-4e7c-9881-2ad6e166e85e)
+* 카페라떼 카페인과 가격
 ![image](https://github.com/user-attachments/assets/35025c7a-613b-4a2d-b4b1-f91a35acc926)
+* 카페모카 카페인과 가격
 ![image](https://github.com/user-attachments/assets/981bd928-3232-4a8c-b2be-3853e0b4299a)
-
-__3. 카페인 1mg당 가격 비교__
+---
+__3. 브랜드별 카페인 1mg당 가격 전체__
 
 ![image](https://github.com/user-attachments/assets/7d547977-f18a-44f1-87e0-81f393d989b4)
 
+---
 __4. 카페인 1mg당 가성비 비교__
-
+* 아메리카노 1~4위
 ![image](https://github.com/user-attachments/assets/47efc6f2-571a-4f82-ac95-4abe727e4121)
+* 카페라떼 1~4위
 ![image](https://github.com/user-attachments/assets/d0995adb-f089-47c0-b645-016a65173f14)
+* 카페모카 1~4위
 ![image](https://github.com/user-attachments/assets/6802b2e1-63a6-4856-a247-83d6deee3824)
 
 
