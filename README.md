@@ -32,7 +32,8 @@
 |브랜드별 평판 순위| Brand Reputation Index | 
 |카페별 선호도 조사| 자체 제작 | Google form |
 
-## 
+## 데이터 수집
+
 
 
 ### Prerequisites
