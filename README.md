@@ -30,7 +30,7 @@
 |카페(아메리카노, 카페라떼, 카페모카)|브랜드별 홈페이지|Selenium, Beautifulsoup|
 |카페 브랜드별 가격| 카카오 선물하기 홈|Selenium, beautifulsoup|
 |브랜드별 평판 순위| Brand Reputation Index | 
-|카페별 선호도 조사| 자체 제작 | Google form
+|카페별 선호도 조사| 자체 제작 | Google form |
 
 ## 
 
